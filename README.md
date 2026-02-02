@@ -23,8 +23,8 @@ The project explores hand-tracking based input systems inspired by XR and spatia
 
 ---
 
-## 🚧 Project Status
-**Work in Progress — Phase 2.1**
+## Project Note
+This project was paused after Phase 2.1 once the core gesture interaction system was stabilized.
 
 Planned improvements:
 - UI/UX enhancements (glassy keys, animations)
